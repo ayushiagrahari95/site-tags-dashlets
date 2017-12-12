@@ -1,0 +1,429 @@
+2017-12-11 16:43:21,702 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-11 16:43:21,703 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-11 16:43:22,273 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 16:43:22,278 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 16:43:22,279 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 16:43:22,281 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 16:43:24,536 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-11 16:43:24,537 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-11 16:43:24,537 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-11 16:43:24,625 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 2322.3025ms)
+2017-12-11 16:43:24,628 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 16:43:24,629 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 16:51:08,458 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-11 16:51:08,459 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-11 16:51:09,061 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 16:51:09,066 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 16:51:09,067 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 16:51:09,069 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 16:51:11,462 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-11 16:51:11,462 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-11 16:51:11,462 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-11 16:51:11,557 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 2470.9392ms)
+2017-12-11 16:51:11,560 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 16:51:11,561 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 16:51:39,774 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-12-11 16:51:55,231 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-11] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-12-11 16:53:34,679 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-7] Successfully retrieved Data Dictionary from Alfresco.
+2017-12-11 16:58:09,035 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-11 16:58:09,036 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-11 16:58:09,532 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 16:58:09,536 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 16:58:09,537 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 16:58:09,539 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 16:58:12,351 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-11 16:58:12,351 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-11 16:58:12,351 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-11 16:58:12,461 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 2902.123ms)
+2017-12-11 16:58:12,464 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 16:58:12,466 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 16:58:35,483 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-12-11 16:58:49,917 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-4] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-12-11 17:01:53,164 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-11 17:01:53,167 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-11 17:01:53,897 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:01:53,906 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:01:53,913 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:01:53,917 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:01:57,971 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-11 17:01:57,971 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-11 17:01:57,972 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-11 17:01:58,100 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 4149.2393ms)
+2017-12-11 17:01:58,105 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:01:58,108 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:03:02,754 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-2] Successfully retrieved license information from Alfresco.
+2017-12-11 17:03:19,700 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-5] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-12-11 17:05:01,643 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-4] Successfully retrieved Data Dictionary from Alfresco.
+2017-12-11 17:26:19,465 WARN  [org.springframework.web.context.support.XmlWebApplicationContext] [localhost-startStop-1] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webscripts.container' defined in URL [jar:file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/lib/spring-surf-6.11.jar!/org/springframework/extensions/surf/spring-surf-application-context.xml]: Cannot resolve reference to bean 'webframework.webscripts.searchpath' while setting bean property 'searchPath'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webframework.webscripts.searchpath' defined in URL [jar:file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/lib/spring-surf-6.11.jar!/org/springframework/extensions/surf/spring-surf-application-context.xml]: Cannot resolve reference to bean 'webframework.webscripts.store.alfresco.classpath' while setting bean property 'searchPath' with key [1]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webframework.webscripts.store.alfresco.classpath' defined in URL [jar:file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/lib/spring-surf-6.11.jar!/org/springframework/extensions/surf/spring-surf-application-context.xml]: Invocation of init method failed; nested exception is java.util.MissingResourceException: Can't find bundle for base name alfresco.messages.common, locale en_IN
+2017-12-11 17:26:19,466 ERROR [org.springframework.web.context.ContextLoader] [localhost-startStop-1] Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webscripts.container' defined in URL [jar:file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/lib/spring-surf-6.11.jar!/org/springframework/extensions/surf/spring-surf-application-context.xml]: Cannot resolve reference to bean 'webframework.webscripts.searchpath' while setting bean property 'searchPath'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webframework.webscripts.searchpath' defined in URL [jar:file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/lib/spring-surf-6.11.jar!/org/springframework/extensions/surf/spring-surf-application-context.xml]: Cannot resolve reference to bean 'webframework.webscripts.store.alfresco.classpath' while setting bean property 'searchPath' with key [1]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webframework.webscripts.store.alfresco.classpath' defined in URL [jar:file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/lib/spring-surf-6.11.jar!/org/springframework/extensions/surf/spring-surf-application-context.xml]: Invocation of init method failed; nested exception is java.util.MissingResourceException: Can't find bundle for base name alfresco.messages.common, locale en_IN
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:334)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:108)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:636)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:938)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:479)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:410)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:112)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webframework.webscripts.searchpath' defined in URL [jar:file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/lib/spring-surf-6.11.jar!/org/springframework/extensions/surf/spring-surf-application-context.xml]: Cannot resolve reference to bean 'webframework.webscripts.store.alfresco.classpath' while setting bean property 'searchPath' with key [1]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webframework.webscripts.store.alfresco.classpath' defined in URL [jar:file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/lib/spring-surf-6.11.jar!/org/springframework/extensions/surf/spring-surf-application-context.xml]: Invocation of init method failed; nested exception is java.util.MissingResourceException: Can't find bundle for base name alfresco.messages.common, locale en_IN
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:334)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:108)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveManagedList(BeanDefinitionValueResolver.java:358)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:157)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	... 24 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'webframework.webscripts.store.alfresco.classpath' defined in URL [jar:file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/lib/spring-surf-6.11.jar!/org/springframework/extensions/surf/spring-surf-application-context.xml]: Invocation of init method failed; nested exception is java.util.MissingResourceException: Can't find bundle for base name alfresco.messages.common, locale en_IN
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	... 36 more
+Caused by: java.util.MissingResourceException: Can't find bundle for base name alfresco.messages.common, locale en_IN
+	at java.util.ResourceBundle.throwMissingResourceException(ResourceBundle.java:1564)
+	at java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1387)
+	at java.util.ResourceBundle.getBundle(ResourceBundle.java:845)
+	at org.springframework.extensions.surf.util.I18NUtil.getLocaleProperties(I18NUtil.java:468)
+	at org.springframework.extensions.surf.util.I18NUtil.getMessage(I18NUtil.java:352)
+	at org.springframework.extensions.surf.util.I18NUtil.getMessage(I18NUtil.java:382)
+	at org.springframework.extensions.surf.util.I18NUtil.getMessage(I18NUtil.java:369)
+	at org.springframework.extensions.surf.exception.PlatformRuntimeException.resolveMessage(PlatformRuntimeException.java:126)
+	at org.springframework.extensions.surf.exception.PlatformRuntimeException.<init>(PlatformRuntimeException.java:99)
+	at org.springframework.extensions.webscripts.WebScriptException.<init>(WebScriptException.java:54)
+	at org.springframework.extensions.webscripts.ClassPathStore.init(ClassPathStore.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeCustomInitMethod(AbstractAutowireCapableBeanFactory.java:1640)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1581)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1511)
+	... 43 more
+2017-12-11 17:26:19,529 ERROR [org.apache.myfaces.webapp.StartupServletContextListener] [localhost-startStop-1] Error initializing ServletContext
+javax.faces.FacesException: Standard faces config org/apache/myfaces/resource/standard-faces-config.xml not found
+	at org.apache.myfaces.config.FacesConfigurator.feedStandardConfig(FacesConfigurator.java:322)
+	at org.apache.myfaces.config.FacesConfigurator.configure(FacesConfigurator.java:289)
+	at org.apache.myfaces.webapp.StartupServletContextListener.initFaces(StartupServletContextListener.java:82)
+	at org.apache.myfaces.webapp.StartupServletContextListener.contextInitialized(StartupServletContextListener.java:65)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4937)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-12-11 17:27:03,271 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-11 17:27:03,272 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-11 17:27:03,800 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:27:03,805 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:27:03,806 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:27:03,808 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:27:06,336 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-11 17:27:06,336 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-11 17:27:06,340 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-11 17:27:06,428 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 2602.1948ms)
+2017-12-11 17:27:06,431 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:27:06,432 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:28:19,484 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-12-11 17:29:32,901 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-1] Successfully retrieved Data Dictionary from Alfresco.
+2017-12-11 17:41:05,195 ERROR [com.asual.lesscss.LessEngine] [localhost-startStop-1] LESS Engine intialization failed.
+java.util.MissingResourceException: Can't find bundle for base name org.mozilla.javascript.resources.Messages, locale en_IN
+	at java.util.ResourceBundle.throwMissingResourceException(ResourceBundle.java:1564)
+	at java.util.ResourceBundle.getBundleImpl(ResourceBundle.java:1387)
+	at java.util.ResourceBundle.getBundle(ResourceBundle.java:845)
+	at org.mozilla.javascript.ScriptRuntime$DefaultMessageProvider.getMessage(ScriptRuntime.java:3641)
+	at org.mozilla.javascript.ScriptRuntime.getMessage(ScriptRuntime.java:3625)
+	at org.mozilla.javascript.ScriptRuntime.getMessage0(ScriptRuntime.java:3573)
+	at org.mozilla.javascript.Context.getImplementationVersion(Context.java:680)
+	at com.asual.lesscss.compiler.RhinoCompiler.<init>(RhinoCompiler.java:26)
+	at com.asual.lesscss.LessEngine.<init>(LessEngine.java:84)
+	at com.asual.lesscss.LessEngine.<init>(LessEngine.java:58)
+	at com.asual.lesscss.LessEngine.<init>(LessEngine.java:54)
+	at org.springframework.extensions.surf.LessForJavaCssThemeHandler.<init>(LessForJavaCssThemeHandler.java:43)
+	at org.springframework.extensions.surf.HybridCssThemeHandler.<init>(HybridCssThemeHandler.java:37)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:148)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1032)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:985)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:487)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:108)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:108)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:108)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:108)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:108)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:636)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:938)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:479)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:410)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:112)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-12-11 17:41:05,365 WARN  [org.springframework.web.context.support.XmlWebApplicationContext] [localhost-startStop-1] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handlerMappings' defined in class path resource [surf-config.xml]: Cannot resolve reference to bean 'editionInterceptor' while setting bean property 'interceptors' with key [2]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'editionInterceptor' defined in URL [file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/classes/alfresco/slingshot-application-context.xml]: Cannot resolve reference to bean 'slingshot.scriptprocessor.shareManifest' while setting bean property 'shareManifest'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'slingshot.scriptprocessor.shareManifest' defined in URL [file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/classes/alfresco/slingshot-application-context.xml]: Invocation of init method failed; nested exception is java.lang.RuntimeException: Error reading manifest.
+2017-12-11 17:41:05,365 ERROR [org.springframework.web.context.ContextLoader] [localhost-startStop-1] Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handlerMappings' defined in class path resource [surf-config.xml]: Cannot resolve reference to bean 'editionInterceptor' while setting bean property 'interceptors' with key [2]; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'editionInterceptor' defined in URL [file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/classes/alfresco/slingshot-application-context.xml]: Cannot resolve reference to bean 'slingshot.scriptprocessor.shareManifest' while setting bean property 'shareManifest'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'slingshot.scriptprocessor.shareManifest' defined in URL [file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/classes/alfresco/slingshot-application-context.xml]: Invocation of init method failed; nested exception is java.lang.RuntimeException: Error reading manifest.
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:334)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:108)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveManagedList(BeanDefinitionValueResolver.java:358)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:157)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:636)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:938)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:479)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:410)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:306)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:112)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'editionInterceptor' defined in URL [file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/classes/alfresco/slingshot-application-context.xml]: Cannot resolve reference to bean 'slingshot.scriptprocessor.shareManifest' while setting bean property 'shareManifest'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'slingshot.scriptprocessor.shareManifest' defined in URL [file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/classes/alfresco/slingshot-application-context.xml]: Invocation of init method failed; nested exception is java.lang.RuntimeException: Error reading manifest.
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:334)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:108)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1419)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:519)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	... 26 more
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'slingshot.scriptprocessor.shareManifest' defined in URL [file:/home/ayushi/Desktop/workspace/ev-site-tags-dashlet/target/tomcat/webapps/ev-site-tags-dashlet-share/WEB-INF/classes/alfresco/slingshot-application-context.xml]: Invocation of init method failed; nested exception is java.lang.RuntimeException: Error reading manifest.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1514)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:458)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:293)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:223)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:290)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:191)
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328)
+	... 36 more
+Caused by: java.lang.RuntimeException: Error reading manifest.
+	at org.alfresco.web.scripts.ShareManifest.readManifest(ShareManifest.java:89)
+	at org.alfresco.web.scripts.ShareManifest.register(ShareManifest.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeCustomInitMethod(AbstractAutowireCapableBeanFactory.java:1640)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1581)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1511)
+	... 43 more
+Caused by: java.io.FileNotFoundException: Could not open ServletContext resource [/META-INF/MANIFEST.MF]
+	at org.springframework.web.context.support.ServletContextResource.getInputStream(ServletContextResource.java:140)
+	at org.alfresco.web.scripts.ShareManifest.readManifest(ShareManifest.java:83)
+	... 51 more
+2017-12-11 17:41:05,419 ERROR [org.apache.myfaces.webapp.StartupServletContextListener] [localhost-startStop-1] Error initializing ServletContext
+javax.faces.FacesException: Standard faces config org/apache/myfaces/resource/standard-faces-config.xml not found
+	at org.apache.myfaces.config.FacesConfigurator.feedStandardConfig(FacesConfigurator.java:322)
+	at org.apache.myfaces.config.FacesConfigurator.configure(FacesConfigurator.java:289)
+	at org.apache.myfaces.webapp.StartupServletContextListener.initFaces(StartupServletContextListener.java:82)
+	at org.apache.myfaces.webapp.StartupServletContextListener.contextInitialized(StartupServletContextListener.java:65)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4937)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2017-12-11 17:41:38,255 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-11 17:41:38,256 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-11 17:41:38,775 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:41:38,779 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:41:38,780 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:41:38,783 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:41:41,333 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-11 17:41:41,334 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-11 17:41:41,334 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-11 17:41:41,439 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 2637.334ms)
+2017-12-11 17:41:41,442 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:41:41,443 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:42:11,659 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-12-11 17:42:35,228 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-10] Successfully retrieved Data Dictionary from Alfresco.
+2017-12-11 17:46:36,468 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-7] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-12-11 17:53:38,556 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-11 17:53:38,557 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-11 17:53:39,261 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:53:39,274 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:53:39,275 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:53:39,279 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:53:42,803 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-11 17:53:42,803 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-11 17:53:42,803 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-11 17:53:42,934 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 3634.551ms)
+2017-12-11 17:53:42,940 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:53:42,942 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:53:56,727 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-12-11 17:53:57,478 ERROR [org.alfresco.web.site] [http-bio-8081-exec-1] javax.servlet.ServletException: Could not resolve view with name 'site/test/dashboard' in servlet with name 'Spring Surf Dispatcher Servlet'
+2017-12-11 17:54:47,588 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-11 17:54:47,589 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-11 17:54:48,117 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:54:48,121 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:54:48,121 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:54:48,123 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:54:50,873 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-11 17:54:50,873 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-11 17:54:50,873 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-11 17:54:50,959 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 2811.446ms)
+2017-12-11 17:54:50,961 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 17:54:50,962 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 17:55:20,483 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-12-11 17:56:43,695 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-5] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-12-11 17:59:15,749 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-10] Successfully retrieved Data Dictionary from Alfresco.
+2017-12-11 18:00:07,456 INFO  [org.alfresco.web.scripts.MimetypesQuery] [http-bio-8081-exec-6] Successfully retrieved mimetypes information from Alfresco.
+2017-12-11 18:16:02,268 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-11 18:16:02,269 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-11 18:16:02,699 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 18:16:02,703 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 18:16:02,704 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 18:16:02,705 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 18:16:05,182 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-11 18:16:05,183 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-11 18:16:05,183 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-11 18:16:05,287 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 2566.0347ms)
+2017-12-11 18:16:05,290 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 18:16:05,291 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 18:18:05,103 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-12-11 18:18:19,652 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-5] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-12-11 18:18:51,043 INFO  [org.alfresco.web.scripts.QuickShareStatus] [http-bio-8081-exec-7] Successfully retrieved quick share information from Alfresco.
+2017-12-11 18:18:53,105 INFO  [org.alfresco.web.scripts.MimetypesQuery] [http-bio-8081-exec-4] Successfully retrieved mimetypes information from Alfresco.
+2017-12-11 18:23:54,155 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-11 18:23:54,156 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-11 18:23:54,656 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 18:23:54,659 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 18:23:54,660 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 18:23:54,662 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 18:23:57,333 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-11 18:23:57,333 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-11 18:23:57,333 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-11 18:23:57,425 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 2745.6616ms)
+2017-12-11 18:23:57,428 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-11 18:23:57,429 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-11 18:24:06,660 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.

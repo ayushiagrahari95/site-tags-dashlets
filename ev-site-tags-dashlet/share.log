@@ -1,0 +1,47 @@
+2017-12-12 11:09:21,668 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-12 11:09:21,678 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-12 11:09:22,308 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-12 11:09:22,312 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-12 11:09:22,313 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-12 11:09:22,314 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-12 11:09:24,796 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-12 11:09:24,797 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-12 11:09:24,797 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-12 11:09:24,874 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 2539.7312ms)
+2017-12-12 11:09:24,877 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-12 11:09:24,878 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-12 11:09:37,338 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-12-12 11:09:50,641 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-5] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-12-12 11:10:35,323 INFO  [org.alfresco.web.scripts.DictionaryQuery] [http-bio-8081-exec-4] Successfully retrieved Data Dictionary from Alfresco.
+2017-12-12 12:53:15,271 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-12 12:53:15,272 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-12 12:53:15,918 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-12 12:53:15,927 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-12 12:53:15,928 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-12 12:53:15,934 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-12 12:53:19,283 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-12 12:53:19,284 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-12 12:53:19,284 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-12 12:53:19,408 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 3449.678ms)
+2017-12-12 12:53:19,414 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-12 12:53:19,416 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-12 12:54:16,678 INFO  [org.alfresco.web.site.EditionInterceptor] [http-bio-8081-exec-1] Successfully retrieved license information from Alfresco.
+2017-12-12 12:54:36,141 INFO  [org.alfresco.web.scripts.ImapServerStatus] [http-bio-8081-exec-7] Successfully retrieved IMAP server status from Alfresco: disabled
+2017-12-12 13:01:09,120 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] Found 2 module package(s)
+2017-12-12 13:01:09,121 INFO  [org.alfresco.web.config.packaging.ModulePackageManager] [localhost-startStop-1] ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+ev-site-tags-dashlet Share Jar Module - SDK 3, 1.0-SNAPSHOT, Share JAR Module (to be included in the share.war) - SDK 3
+
+2017-12-12 13:01:09,587 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-12 13:01:09,591 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-12 13:01:09,591 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-12 13:01:09,593 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
+2017-12-12 13:01:11,976 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 394 Web Scripts (+0 failed), 412 URLs
+2017-12-12 13:01:11,976 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 8 Package Description Documents (+0 failed) 
+2017-12-12 13:01:11,976 INFO  [org.springframework.extensions.webscripts.DeclarativeRegistry] [localhost-startStop-1] Registered 0 Schema Description Documents (+0 failed) 
+2017-12-12 13:01:12,052 INFO  [org.springframework.extensions.webscripts.AbstractRuntimeContainer] [localhost-startStop-1] Initialised Surf Container Web Script Container (in 2433.0217ms)
+2017-12-12 13:01:12,055 INFO  [org.springframework.extensions.webscripts.TemplateProcessorRegistry] [localhost-startStop-1] Registered template processor freemarker for extension ftl
+2017-12-12 13:01:12,056 INFO  [org.springframework.extensions.webscripts.ScriptProcessorRegistry] [localhost-startStop-1] Registered script processor javascript for extension js
